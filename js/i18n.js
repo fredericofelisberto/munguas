@@ -31,7 +31,7 @@
     ['.values p', ['Cargo and passengers protected from start to finish.', 'Well-planned routes that save time and cost.', 'Your deadline is our deadline. We deliver what we promise.', 'Over 10 years of lasting relationships with our clients.']],
     ['.contactos .eyebrow', ['Contact']],
     ['.contactos h2', ['Let’s talk about your next trip.']],
-    ['.contact-list dt', ['Phone', 'WhatsApp', 'Address']],
+    ['.contact-list dt', ['Phone', 'WhatsApp', 'Email', 'Address']],
     ['.contact-list dd:nth-of-type(1) a[href*="wa.me"]', ['Send a message']],
     ['.contact-list div:last-child dd', ['Wimbe Expansão, Pemba<br>Cabo Delgado, Mozambique']],
     ['.quote h3', ['Quote request']],
