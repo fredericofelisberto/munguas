@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48">
+  <symbol id="m" viewBox="0 0 48 48">
+    <circle cx="24" cy="24" r="22" fill="#5b8ff5"/>
+    <path d="M9 33 27 15l-1-5 13 2 3 13-5-2-3-2-9 9z" fill="#000a5c"/>
+    <path d="M8 24h14M10 29h12" stroke="#fff" stroke-width="2.500" stroke-linecap="round"/>
+  </symbol>
+  <use href="#m"/>
+</svg>
