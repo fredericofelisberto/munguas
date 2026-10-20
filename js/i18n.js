@@ -23,8 +23,8 @@
       'Tailored operational support: regular contracts or one-off services, adapted to the client’s needs.']],
     ['.frota .eyebrow', ['Our fleet']],
     ['.frota h2', ['The right vehicle for every job.']],
-    ['.frota .lead', ['<strong>Isuzu</strong> trucks for heavy cargo and <strong>Toyota Hilux</strong> pick-ups for agile trips on road and rough terrain — carefully maintained for reliability on every journey.']],
-    ['.ticks li', ['Isuzu cargo trucks', 'Toyota Hilux pick-ups', 'Regular maintenance and experienced drivers']],
+    ['.frota .lead', ['<strong>Trucks</strong> for heavy cargo and <strong>pick-ups</strong> for agile trips on road and rough terrain — carefully maintained for reliability on every journey.']],
+    ['.ticks li', ['Cargo trucks', 'Pick-ups', 'Regular maintenance and experienced drivers']],
     ['.porque .eyebrow', ['Why Munguas']],
     ['.porque h2', ['Four commitments in every service.']],
     ['.values b', ['Safety', 'Efficiency', 'Punctuality', 'Trust']],
@@ -43,8 +43,8 @@
     ['.note', ['Opens WhatsApp with your message ready.']],
     ['#f1', ['Transport and Services, E.I. · Pemba, Cabo Delgado']],
     ['#f2', ['All rights reserved.']],
-    ['.hero-art img', ['Isuzu truck and Toyota Hilux pick-up from the Munguas T&A fleet'], 'alt'],
-    ['.frota-img img', ['Isuzu FS truck and Toyota Hilux'], 'alt']
+    ['.hero-art img', ['Truck and pick-up from the Munguas T&A fleet'], 'alt'],
+    ['.frota-img img', ['Truck and pick-up from the fleet'], 'alt']
   ];
   var META = {
     en: { title: 'Munguas T&A — Transport and Services in Pemba, Cabo Delgado',
